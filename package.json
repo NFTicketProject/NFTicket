@@ -1,8 +1,8 @@
 {
-  "homepage": "http://BluU0108.github.io/NFTicket ",
   "name": "nfticket",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/NFTicketProject/NFTicket.git",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^4.2.4",
@@ -11,18 +11,20 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.11.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "3.4.3",
     "react-scroll": "^1.8.1",
     "styled-components": "^5.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy:": "gh-pages -d build",
+    
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
