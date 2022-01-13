@@ -61,7 +61,7 @@ const Footer = () => {
               <FooterLink to='/'>Instagram</FooterLink>
               <FooterLink to='/'>Facebook</FooterLink>
               <FooterLink to='/'>Youtube</FooterLink>
-              <FooterLink href='//twitter.com/nf_ticket'>Twitter</FooterLink>
+              <FooterLink href='https://www.twitter.com/nf_ticket/'>Twitter</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
@@ -75,7 +75,7 @@ const Footer = () => {
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
               </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Instagram'>
+              <SocialIconLink href='https://www.instagram.com/nfticketde/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink
@@ -92,9 +92,6 @@ const Footer = () => {
                 href='https://twitter.com/nf_ticket'
               >
                 <FaTwitter />
-              </SocialIconLink>
-              <SocialIconLink href='/' target='_blank' aria-label='Linkedin'>
-                <FaLinkedin />
               </SocialIconLink>
             </SocialIcons>
           </SocialMediaWrap>
