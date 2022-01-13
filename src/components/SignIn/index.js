@@ -6,8 +6,6 @@ import {
   FormContent,
   Form,
   FormH1,
-  FormLabel,
-  FormInput,
   FormButton,
   Text
 } from './SigninElements';
