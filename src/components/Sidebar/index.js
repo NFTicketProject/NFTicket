@@ -60,7 +60,7 @@ const Sidebar = ({ isOpen, toggle }) => {
             exact='true'
             offset={-80}
           >
-            Open App
+            Whitepaper
           </SidebarLink>
         </SidebarMenu>
         <SideBtnWrap>
