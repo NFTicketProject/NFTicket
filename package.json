@@ -2,7 +2,7 @@
   "name": "nfticket",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/NFTicketProject/NFTicket",
+  "homepage": "https://nf-ticket.org",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^4.2.4",
@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
