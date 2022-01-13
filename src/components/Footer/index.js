@@ -61,7 +61,7 @@ const Footer = () => {
               <FooterLink to='/'>Instagram</FooterLink>
               <FooterLink to='/'>Facebook</FooterLink>
               <FooterLink to='/'>Youtube</FooterLink>
-              <FooterLink href='https://www.twitter.com/nf_ticket/'>Twitter</FooterLink>
+              <FooterLink to='/'>Twitter</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
@@ -72,9 +72,6 @@ const Footer = () => {
             </SocialLogo>
             <WebsiteRights>NFTicket © 2022 All rights reserved.</WebsiteRights>
             <SocialIcons>
-              <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
-                <FaFacebook />
-              </SocialIconLink>
               <SocialIconLink href='https://www.instagram.com/nfticketde/' target='_blank' aria-label='Instagram'>
                 <FaInstagram />
               </SocialIconLink>
