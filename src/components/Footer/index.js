@@ -61,7 +61,7 @@ const Footer = () => {
               <FooterLink to='/'>Instagram</FooterLink>
               <FooterLink to='/'>Facebook</FooterLink>
               <FooterLink to='/'>Youtube</FooterLink>
-              <FooterLink to='/'>Twitter</FooterLink>
+              <FooterLink href='//twitter.com/nf_ticket'>Twitter</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
@@ -79,7 +79,7 @@ const Footer = () => {
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
+                href='//www.youtube.com'
                 target='_blank'
                 aria-label='Youtube'
                 rel='noopener noreferrer'
@@ -89,7 +89,7 @@ const Footer = () => {
               <SocialIconLink
                 target='_blank'
                 aria-label='Twitter'
-                href='//www.twitter.com/briandesignz'
+                href='https://twitter.com/nf_ticket'
               >
                 <FaTwitter />
               </SocialIconLink>
