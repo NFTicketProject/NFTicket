@@ -2,7 +2,6 @@
   "name": "nfticket",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nf-ticket.org",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^4.2.4",
