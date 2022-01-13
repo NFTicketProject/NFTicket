@@ -25,7 +25,7 @@ export const homeObjTwo = {
   topLine: 'Our Token',
   headline: '$NFTC / NFTicket Community Token',
   description:
-    'Our token will be used for rew.',
+    'Our token will be used for paying out NFTicket lenders and stakers. Also discounts if you buy your tickets with $NFTC',
   buttonLabel: 'Read Tokenomics',
   imgStart: true,
   img: require('../../images/svg-2.svg'),
